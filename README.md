@@ -1,4 +1,13 @@
-### Hi there 👋
+Hello there 👋
+I'm Adam, I'm 15 years old.
+For 2 years I learned Front-end;
+My skills:
+- HTML
+- CSS
+- SASS
+- JavaScript (ES6+)
+- SEO
+
 
 <!--
 **AdamStajer07/AdamStajer07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
