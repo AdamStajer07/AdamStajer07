@@ -1,25 +1,9 @@
 Hello there 👋
 I'm Adam, I'm 15 years old.
-For 2 years I learned Front-end;
+For 2 years I learned Front-end.
 My skills:
-- HTML
-- CSS
-- SASS
-- JavaScript (ES6+)
-- SEO
-
-
-<!--
-**AdamStajer07/AdamStajer07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- HTML 🟠
+- CSS 🔵
+- SASS 🟣
+- JavaScript (ES6+) 🟡⚫
+- SEO 🟢
