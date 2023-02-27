@@ -7,3 +7,4 @@ My skills:
 - SASS 🟣
 - JavaScript (ES6+) 🟡⚫
 - SEO 🟢
+- Python (basic)🟡🔵
