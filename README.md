@@ -1,10 +1,8 @@
-Hello there 👋
-I'm Adam, I'm 15 years old.
-For 2 years I learned Front-end.
-My skills:
-- HTML 🟠
-- CSS 🔵
-- SASS 🟣
-- JavaScript (ES6+) 🟡⚫
-- SEO 🟢
-- Python (basic)🟡🔵
+<<<<<<< HEAD
+# Apple-Clicker
+
+Click the button, that score points, which you can exchange for upgrades and boosts. Apples are main topic
+Clicker type game
+=======
+# Apple-Clicker
+>>>>>>> 7244010 (Initial commit)

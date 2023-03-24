@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Clicker. Click the button, that score points, which you can exchange for upgrades and boosts. Apples are main topic">
+    <meta name="keywords" content="Apple, Clicker, Game, Score, Level">
+    <meta name="author" content="Adam Stajer">
+    <!-- Google fonts - League Spartan -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=League+Spartan:wght@400;700&display=swap" rel="stylesheet">
+
+    <title>Apple Clicker</title>
+    <link rel="stylesheet" href="CSS/main.css">
+    <script src="Script/main.js" defer></script>
+    <script src="Script/autoclick.js" defer></script>
+    <script src="Script/boost.js" defer></script>
+</head>
+<body>
+    <header class="header">
+        <h1 class="header__title">Apple Clicker</h1>
+    </header>
+    <main class="main">
+        <div class="apple">
+            <img src="IMG/apple.png" alt="Apple image. Click here" class="apple__img">
+            <h3 class="apple__score-container">Score: <span class="apple__score">0</span>  apples</h3>
+        </div>
+        <div class="upgrades-container">
+            <div class="upgrade upgrade__container">
+                <h2 class="upgrade__title">Boost</h2>
+                <div class="upgrade__div x2boost"><span class="upgrade__text">x2 (20 apples)</span></div>
+                <div class="upgrade__div x5boost"><span class="upgrade__text">x5 (50 apples)</span></div>
+                <div class="upgrade__div x10boost"><span class="upgrade__text">x10 (200 apples)</span></div>
+                <div class="upgrade__div x25boost"><span class="upgrade__text">x25 (750 apples)</span></div>
+                <div class="upgrade__div x50boost"><span class="upgrade__text">x50 (1 500 apples)</span></div>
+                <div class="upgrade__div x100boost"><span class="upgrade__text">x100 (4 000 apples)</span></div>
+            </div>
+            <div class="upgrade upgrade__container">
+                <h2 class="upgrade__title">Auto click</h2>
+                <h2 class="upgrade__title">Boost</h2>
+                <div class="upgrade__div x10autoclick"><span class="upgrade__text">10 apples/sec (250 apples)</span></div>
+                <div class="upgrade__div x25autoclick"><span class="upgrade__text">25 apples/sec (1 000 apples)</span></div>
+                <div class="upgrade__div x50autoclick"><span class="upgrade__text">50 apples/sec (2 500 apples)</span></div>
+            </div>
+        </div>
+    </main>
+</body>
+</html>
