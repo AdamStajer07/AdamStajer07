@@ -8,5 +8,5 @@ My skills:
 - JavaScript (ES6+) 🟡⚫
 - React (learning) 🔵🔵
 - SEO 🔴
-- SQL 🟢
+- SQL (learning) 🟢
 - Python (learning)🟡🔵
