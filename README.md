@@ -6,5 +6,7 @@ My skills:
 - CSS 🔵
 - SASS 🟣
 - JavaScript (ES6+) 🟡⚫
-- SEO 🟢
-- Python (basic)🟡🔵
+- React (learning) 🔵🔵
+- SEO 🔴
+- SQL 🟢
+- Python (learning)🟡🔵
