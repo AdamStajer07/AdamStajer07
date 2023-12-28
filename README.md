@@ -27,8 +27,8 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>   
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
 </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adamstajer07&show_icons=true&locale=en&layout=compact&theme=dark" alt="adamstajer07" width="325"/></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adamstajer07&show_icons=true&locale=en&layout=compact&theme=dark" alt="adamstajer07" width="30%"/></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adamstajer07&show_icons=true&locale=en&theme=dark" alt="adamstajer07" width="650"/></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adamstajer07&show_icons=true&locale=en&theme=dark" alt="adamstajer07" width="65%"/></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adamstajer07&theme=dark" alt="adamstajer07" width="1000"/></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adamstajer07&theme=dark" alt="adamstajer07" width="100%"/></p>
