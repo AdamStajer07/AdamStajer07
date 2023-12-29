@@ -26,10 +26,10 @@
   <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="75" height="75"/> </a> 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="75" height="75"/> </a>   
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="75" height="75"/> </a> 
-  <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=adamstajer07&show_icons=true&locale=en&layout=compact&theme=dark" alt="adamstajer07" width="30%"/></p>
 </p>
 <p>
  
+  <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=adamstajer07&show_icons=true&locale=en&layout=compact&theme=dark" alt="adamstajer07" width="30%"/></p>
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=adamstajer07&show_icons=true&locale=en&theme=dark" alt="adamstajer07" width="65%"/></p>
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=adamstajer07&theme=dark" alt="adamstajer07" width="65%" height="300"/></p>
